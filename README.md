@@ -7,3 +7,4 @@ https://github.com/user-attachments/assets/c5083dc4-6ba7-48b5-b442-e4eab7720361
 ## How to use ?
 Download & Run [LockScreen.exe](https://github.com/EasingSoft/LockScreen/releases/download/1.0/LockScreen.exe)
 
+#### Made on Jul 2024
